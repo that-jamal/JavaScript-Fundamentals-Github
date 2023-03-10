@@ -6,4 +6,4 @@ let message; // deklarar en variabel
 
 message = "Hello"; //ger variabeln ett message(value)
 
-alert(message); // alert variabeln för att see inhålet 
+alert/console.log(message); // för att see inhålet av variabeln
