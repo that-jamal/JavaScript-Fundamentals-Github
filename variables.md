@@ -1,4 +1,4 @@
-[read.me](README.md)
+[README](README.md)
 ## variables
 ``` 
 variabler används för att spara information 
