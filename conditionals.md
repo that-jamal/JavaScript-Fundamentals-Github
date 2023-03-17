@@ -1,3 +1,4 @@
+[README](README.md)
 ## conditionals
 ``` 
 if och else används för att see om nåt händer på ett set t.ex 
