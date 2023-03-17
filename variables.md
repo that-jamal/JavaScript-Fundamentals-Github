@@ -9,3 +9,4 @@ message = "Hello"; //ger variabeln ett message(value)
 
 alert/console.log(message); // för att see inhålet av variabeln
 ``` 
+[conditionals-](conditionals.md)

@@ -1,1 +1,2 @@
 ## functions
+[arrays-](arrays.md)
