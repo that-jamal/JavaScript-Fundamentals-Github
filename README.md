@@ -7,4 +7,4 @@ Javascripts är ett programmerings språk som används i webbsidor för att lagg
 [loops-](loops.md)
 [functions-](functions.md)
 [arrays-](arrays.md)
-[objects](objects.md)
+[objects-](objects.md)
